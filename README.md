@@ -5,13 +5,15 @@ Spotter is a single-page social media Twitter clone that allows the user to logi
 A stretch feature that we included was adding a Spotify Player at the bottom of the page. It allows for you to play music off of multiple devices.
 
 ##Screenshots
-!["New Appointment Form"]()
+!["New Appointment Form"](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.57.48%20AM.png)
 
-!["New Appointment Form"]()
+!["New Appointment Form"](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.57.59%20AM.png)
 
-!["New Appointment Form"]()
+!["New Appointment Form"](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.58.18%20AM.png)
 
-!["New Appointment Form"]()
+!["New Appointment Form"](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.58.56%20AM.png)
+
+!["New Appointment Form"](https://github.com/SarahKeashly/Spotter/blob/master/docs/Screen%20Shot%202021-12-03%20at%2011.59.30%20AM.png)
 
 ##Getting Started
 
